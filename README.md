@@ -1,16 +1,13 @@
-## Hi there 👋
+## Voice Actor | Earth and Enviro Sciences Student | Passionate about GIS, Data Science and Ethics
 
-<!--
-**MissEmilie/MissEmilie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm Emilie or Emily. Thanks for stopping by!
 
-Here are some ideas to get you started:
+I'm currently working on:
+- A Discord Bot to play Dungeons and Dragons, including attack rolls, skill checks, a full character SQL database and a random character generator
+- GIS + ESG projects, particularly focused on racial and environmental inequality in the GTA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools: Python, SQL, ArcGIS Pro, Business Analyst Online, HTML, CSS, JavaScript
+
+Connect with me!
+LinkedIn: www.linkedin.com/in/emily-brewer-enviro
+Webisite (VO focused): EmilieBrewer.com
