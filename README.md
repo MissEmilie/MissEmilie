@@ -9,5 +9,5 @@ I'm currently working on:
 Tools: Python, SQL, ArcGIS Pro, Business Analyst Online, HTML, CSS, JavaScript
 
 Connect with me!
-LinkedIn: www.linkedin.com/in/emily-brewer-enviro
-Webisite (VO focused): EmilieBrewer.com
+- LinkedIn: www.linkedin.com/in/emily-brewer-enviro
+= Webisite (VO focused): EmilieBrewer.com
