@@ -8,6 +8,7 @@ I'm currently working on:
 - GIS + ESG projects, particularly focused on racial and environmental inequality in the GTA
 
 Tools: Python, SQL, ArcGIS Pro/Online, Business Analyst Online, HTML, CSS, JavaScript, R
+
 Libraries: Matplotlib, Pandas, Geopandas, ArcPy, mplStereonet
 
 Connect with me!
