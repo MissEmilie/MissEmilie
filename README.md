@@ -12,4 +12,4 @@ Tools: Python, SQL, ArcGIS Pro/Online, Business Analyst Online, HTML, CSS, JavaS
 
 ## Connect with me!
 - LinkedIn: www.linkedin.com/in/emily-brewer-enviro
-- Voice Acting Profolio Website: EmilieBrewer.com
+- Voice Acting Portfolio Website: EmilieBrewer.com
