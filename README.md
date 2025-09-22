@@ -8,7 +8,8 @@ I'm currently working on:
 - GIS + ESG projects, particularly focused on racial and environmental inequality in the GTA
 - Building a full GIS, geoscience field and lab work portfolio website
 
-Tools: Python, SQL, ArcGIS Pro/Online, Business Analyst Online, HTML, CSS, JavaScript, R
+
+Tools: Python, R, SQL, ArcGIS Pro/Online, QGIS, AutoCAD, HTML, CSS, JavaScript
 
 ## Connect with me!
 - LinkedIn: www.linkedin.com/in/emily-brewer-enviro
